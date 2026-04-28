@@ -313,4 +313,4 @@ Measures_/
 
 ## 📬 Connect
 
-Feel free to reach out on [LinkedIn](#) if you have questions or feedback!
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/samir-hendawy-530124231/) if you have questions or feedback!
