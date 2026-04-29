@@ -287,7 +287,7 @@ Measures_/
 | Layer | Tool |
 |---|---|
 | Data Cleaning | MySQL 8.0 |
-| Analysis | Python 3, Pandas, Matplotlib, Seaborn, Jupyter |
+| Analysis | Python 3, Pandas, Matplotlib, Plotly, Jupyter |
 | Visualization | Power BI Desktop |
 
 ---
